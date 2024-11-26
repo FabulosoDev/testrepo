@@ -10,21 +10,7 @@
             "id": "dev.fabuloso.webospppwn",
             "title": "webOS-PPPwn",
             "iconUri": "https://raw.githubusercontent.com/FabulosoDev/webOS-PPPwn/refs/heads/master/frontend/assets/icon-130.png",
-            "manifest": {
-                "id": "dev.fabuloso.webospppwn",
-                "version": "1.0.1",
-                "type": "web",
-                "title": "webOS-PPPwn",
-                "appDescription": "PPPwn for webOS TVs - PlayStation 4 PPPoE RCE",
-                "iconUri": "https://raw.githubusercontent.com/FabulosoDev/webOS-PPPwn/refs/heads/master/frontend/assets/icon-130.png",
-                "sourceUrl": "https://github.com/FabulosoDev/webOS-PPPwn",
-                "rootRequired": false,
-                "ipkUrl": "https://github.com/FabulosoDev/webOS-PPPwn/releases/download/v1.0.1/dev.fabuloso.webospppwn_1.0.1_all.ipk",
-                "ipkHash": {
-                    "sha256": "514f1f8b98868e60316e98b79a38389cea592295177e1404fdb94631259a4c63"
-                }
-            },
-            "shortDescription": "PPPwn for webOS TVs"
+            "manifestUrl": "https://github.com/FabulosoDev/webOS-PPPwn/releases/latest/download/dev.fabuloso.webospppwn.manifest.json"
         }
     ]
 }
